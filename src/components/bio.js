@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in Vancouver, Canada.
+        Written by <strong>{author}</strong> who lives and works in Vancouver, Canada.<br />
         {` `}
         <a href={`https://linkedin.com/in/${social.linkedin}`}>
           You should connect with him on LinkedIn
