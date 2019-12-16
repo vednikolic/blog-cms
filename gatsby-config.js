@@ -5,9 +5,7 @@ module.exports = {
     description: `Ved's blog`,
     siteUrl: `https://blog.vednikolic.com/`,
     social: {
-      twitter: `vednikolic`,
       linkedin: `vednikolic`,
-      instagram: `vednikolic`,
     },
   },
   plugins: [
