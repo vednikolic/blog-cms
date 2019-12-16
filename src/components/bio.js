@@ -56,7 +56,7 @@ const Bio = () => {
       <p>
         Written by <strong>{author}</strong> who lives and works in Vancouver, Canada.<br />
         {` `}
-        <a href={`https://linkedin.com/in/${social.linkedin}`}>
+        <a href={`https://www.linkedin.com/in/${social.linkedin}`}>
           You should connect with him on LinkedIn
         </a>
       </p>

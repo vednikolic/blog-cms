@@ -6,8 +6,8 @@ module.exports = {
     siteUrl: `https://blog.vednikolic.com/`,
     social: {
       twitter: `vednikolic`,
-      linkedin: 'vednikolic',
-      instagram: 'vednikolic',
+      linkedin: `vednikolic`,
+      instagram: `vednikolic`,
     },
   },
   plugins: [
